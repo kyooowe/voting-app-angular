@@ -1,0 +1,10 @@
+.test {
+    display: block;
+}
+.tes {
+    display: block !important;
+}
+
+.tests {
+    display: none !important;
+}
